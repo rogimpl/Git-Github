@@ -1,0 +1,43 @@
+# Cheklist Partida Cesnna 152 :airplane:
+
+## Antes de acionamento do motor
+
+**Inspeção Externa Pré-voo**                                                  **Concluido**
+
+- *Calços, capas do Pitot e documentação*                     *Verificar*
+- *Assentos e Cintos*                                                          *Ajustar*
+- *Prime*                                                                             *A critério*
+- *Radio e equipamentos elétricos*                                  *Desligado*
+- *Seletora de combustível*                                                *Aberta*
+- *Mistura*                                                                           *Rica*
+- *Aquecimento do Carburador*                                       *Abrir 2x e deixar 1/8*
+- *Disjuntores*                                                                    *Armados*
+- *Frios*                                                                               *Aplicar*
+- *Beacon*                                                                           *Ligar*
+
+
+
+## Acionamento    ## 
+
+- *Freios*                                               *Acionados*
+- *Área da Hélice*                                 *Livre*
+- *Starter* 
+- *Potência*                                           *1000 rpm*
+- *Pressão de Óleo*                               *Após 10s*
+- *Rádios e equip. elétricos*                 *Ligar e Ajustar*
+
+## Cheque de Motor :small_airplane: ##
+
+- *Ponto de Espera*                              *45° com a taxiway*
+- *Freios*                                               *Acionados*
+- *Potência*                                         *1700 Rpm*
+- *Magnetos*                                       *Queda máx. 150 e 50 rpm entre ambos*
+- *Carburador*                                   *Entre 50 e 100 rpm*
+- *Mistura*                                          *Pobre/Corte/Rica*
+- *Potência*                                       *Lenta entre 550/700 rpm*
+- *Potência*                                        *1000 Rpm*
+
+
+
+  
+
